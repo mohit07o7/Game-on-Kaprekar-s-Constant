@@ -33,10 +33,10 @@ public class KaprekarsGame {
         System.out.println("Welcome to the Kaprekar's Magic Game! ");
         System.out.println("Think of any 4-digit number (not all digits the same).");
         System.out.println("Don't tell me! Just follow these steps:");
-        System.out.println("1️⃣ Arrange the digits in descending order.");
-        System.out.println("2️⃣ Arrange the digits in ascending order.");
-        System.out.println("3️⃣ Subtract the smaller number from the larger one.");
-        System.out.println("4️⃣ Repeat the process until you get the same number.");
+        System.out.println("1 Arrange the digits in descending order.");
+        System.out.println("2 Arrange the digits in ascending order.");
+        System.out.println("3 Subtract the smaller number from the larger one.");
+        System.out.println("4 Repeat the process until you get the same number.");
         System.out.println("I'll now try to guess your final number! ");
         
         System.out.print("\nEnter your starting number (for verification): ");
